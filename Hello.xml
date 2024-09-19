@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say>
-      Hello. This is a test call from Kunal.
-    </Say>
+    <Say>Hello. This is a test call from Kunal.</Say>
 </Response>
